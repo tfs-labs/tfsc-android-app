@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TFSCAndroid</string>
+    <string name="demo_create_new_account">Create new account</string>
+    <string name="demo_import_account_private_key">Import private key</string>
+    <string name="demo_import_account_mnemonics">Import mnemonics word</string>
+    <string name="demo_get_balance">Get balance</string>
+    <string name="demo_transfer">Transfer</string>
+</resources>
