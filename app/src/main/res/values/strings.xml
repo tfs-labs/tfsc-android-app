@@ -5,4 +5,6 @@
     <string name="demo_import_account_mnemonics">Import mnemonics word</string>
     <string name="demo_get_balance">Get balance</string>
     <string name="demo_transfer">Transfer</string>
+    <string name="demo_delegate">Delegate</string>
+    <string name="demo_withdraw">WithDraw</string>
 </resources>
