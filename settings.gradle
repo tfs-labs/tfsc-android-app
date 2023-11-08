@@ -12,6 +12,6 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "TFSCAndroid"
+rootProject.name = "ExampleForAndroid"
 include ':app'
-include ':sdk'
+include ':wallet'
