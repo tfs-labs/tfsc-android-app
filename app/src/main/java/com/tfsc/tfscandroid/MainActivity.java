@@ -283,7 +283,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                                         if (!TextUtils.isEmpty(errorCode) && errorCode.equals("0")) {
                                             //send Trans Success
                                             /** "txhash" is the hash of this transaction
-                                             * {"ErrorCode":"0","ErrorMessage":"","txhash":"ddb85836adf0532694c369dfae3713e70416dad747eb5585414d761212394cf3","type":""}
+                                             * {"ErrorCode":"0","ErrorMessage":"","txhash":"c75ebff7acc3f457782b61efd059f64da433d08c76ea20e7a3004c2c5df15c76","type":""}
                                              */
                                             Log.d(TAG, "send_message success: " + result);
                                         }
